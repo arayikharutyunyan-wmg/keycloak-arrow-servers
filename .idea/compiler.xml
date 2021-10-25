@@ -12,12 +12,14 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="playlist" target="11" />
+      <module name="playlist (1)" target="11" />
       <module name="users" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="playlist" options="-parameters" />
+      <module name="playlist (1)" options="-parameters" />
       <module name="users" options="-parameters" />
     </option>
   </component>

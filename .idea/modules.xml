@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/keycloak-arrow-servers.iml" filepath="$PROJECT_DIR$/.idea/keycloak-arrow-servers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/playlist/playlist/playlist.iml" filepath="$PROJECT_DIR$/playlist/playlist/playlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playlist/playlist.iml" filepath="$PROJECT_DIR$/playlist/playlist.iml" />
       <module fileurl="file://$PROJECT_DIR$/users/users.iml" filepath="$PROJECT_DIR$/users/users.iml" />
     </modules>
   </component>
